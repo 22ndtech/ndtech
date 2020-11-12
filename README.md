@@ -1,6 +1,6 @@
 # ndtech
 
-##An open, agile, for profit, digital cooperative
+## An open, agile, for profit, digital cooperative
 
 **Open**:  It is open to anyone who wants to join
 
